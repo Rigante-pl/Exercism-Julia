@@ -1,0 +1,1 @@
+add_gigasecond(date::DateTime) = date + Millisecond(10^12)
